@@ -1,5 +1,5 @@
 
-#Железо схемы:
+# Железо схемы:
 - Arduino Nano type-C AtmegaOLD328
 - GY-BME280 датчик температуры
 - OLED 0.96 дисплей на I2C
